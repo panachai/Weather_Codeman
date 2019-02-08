@@ -1,0 +1,16 @@
+{
+  "name": "Weather_Codeman",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^1.18.9",
+    "request": "^2.88.0"
+  }
+}
